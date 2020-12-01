@@ -1,6 +1,7 @@
 @extends('plantilla')
 
 @section('content')
+	<h1><center>Esto sera una prueba</center></h1>
 	<h1><center>Panel de Control</center></h1>
 	<h1><center>Titulo de panel</center></h1>
 	<h1><center>Inicio de la App</center></h1>
